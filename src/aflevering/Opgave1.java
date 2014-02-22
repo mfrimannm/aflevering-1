@@ -19,6 +19,9 @@ public class Opgave1 {
 		System.out.println("eller");
 		System.out.println();
 		
+		System.out.println("denne er bare en test");
+		System.out.println();
+
 		String text = "Use  \"\\\\\" to obtain a ’backslash’ character.";
 		System.out.println(text);
 		System.out.println("Remember:");
